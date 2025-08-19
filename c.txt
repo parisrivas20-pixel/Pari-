@@ -2,8 +2,9 @@
 int main()
 {
     printf("Name = Pari Srivastava \n");
-    printf("Age = 18 \n");
+    printf("Age = 28 \n");
     printf("School = City Montesorri School \n");
     printf("Class = 12");
     return 0;
+
 }
